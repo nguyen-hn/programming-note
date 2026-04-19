@@ -2,10 +2,8 @@
 
 ```bash
 # Fedora
-sudo dnf install latexmk
+sudo dnf install texlive texlive-luatex latexmk
 
-# Debian/Ubuntu
-sudo apt install latexmk
 ```
 
 # 2. Latex build workflow

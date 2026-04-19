@@ -14,6 +14,6 @@ Table of Contents <a name="top"></a>
 [go to top](#top)
 ### LaTex <a name="latex"></a>
 [go to top](#top)
-
+- [Basics](./latex/01_Latex_basic.md)
 ### Python <a name="Python"></a>
 [go to top](#top)
